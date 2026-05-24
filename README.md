@@ -61,57 +61,6 @@ The objective is to understand customer behavior and support data-driven busines
 * Marketing Channel Effectiveness
 * Interactive Filters and Slicers
 
----
-
-## 2. Pizza Sales Analysis Dashboard
-
-### Project Overview
-
-This project analyzes pizza sales performance using Power BI to identify revenue patterns, customer purchasing behavior, and operational opportunities.
-
-The dashboard focuses on:
-
-* Total Revenue
-* Total Orders
-* Best-Selling Pizza Categories
-* Daily and Monthly Sales Trends
-* Peak Sales Hours
-* Customer Purchase Patterns
-
-The objective is to improve business performance through sales analysis and operational optimization.
-
----
-
-### Key Business Insights
-
-* Weekend sales contribute significantly to overall revenue.
-* Certain pizza categories consistently generate the highest sales.
-* Seasonal demand impacts order volume and customer behavior.
-* Time-based sales analysis helps improve staffing and inventory planning.
-
----
-
-### Dashboard Highlights
-
-* Revenue KPI Tracking
-* Sales Trend Analysis
-* Category-wise Performance Dashboard
-* Time-based Order Analysis
-* Customer Purchase Insights
-* Interactive Business Reporting
-
----
-
-# Tools & Technologies
-
-* Power BI Desktop
-* Microsoft Excel / CSV Datasets
-* DAX (Data Analysis Expressions)
-* Data Cleaning & Transformation
-* Interactive Dashboard Design
-* Business Intelligence Reporting
-
----
 
 # Skills Demonstrated
 
